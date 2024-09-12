@@ -12,7 +12,7 @@ In this repository, you'll find:
 
 ## Contents
 
-- [LeetCode](./LeetCode/README.md): Solutions to problems from LeetCode.
+- [LeetCode](https://leetcode.com/u/elbinbinil): Solutions to problems from LeetCode.
 - [HackerRank](./HackerRank/README.md): Solutions to problems from HackerRank.
 - [CodeSignal](./CodeSignal/README.md): Solutions to problems from CodeSignal.
 
